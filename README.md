@@ -16,7 +16,7 @@ You can find my different projects, my resume, and more information about me in 
 - `projet-reporting_analyse` – Analyse exploratoire de données (EDA) avec Python (pandas, visualisations, interprétations).  
 - `projet-dataviz` – Projet de data visualisation avec L'Insee (Power BI / Tableau ou équivalent).  
 - `projet-sql` – Projet de création base de données SQL.
-- `projet-stats`
+- `projet-enquête_sondage`-Projet d'enqûête statistique( recueil de données -> valorisations )
 
 
 ## 🧰 Compétences & outils
