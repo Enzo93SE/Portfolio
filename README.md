@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio GitHub.
 Vous trouverez ici une sélection de mes projets en data science, statistiques et data visualisation.
 
 ## 👨‍💻 À propos de moi
-Localisation: Paris,France
+Localisation: Paris, France
 
 I am currently pursuing a Bachelor’s degree in Data Science (B.U.T. Science des Données) at Sorbonne Paris North University.  
 My academic background combines applied mathematics, statistics, and computer science.  
@@ -27,8 +27,7 @@ You can find my different projects, my resume, and more information about me in 
 | Data                            | pandas, numpy, R, visualisation (matplotlib, RShiny)                   |
 | Outils                          | Excel / Power Query, Power BI, Tableau, Git & GitHub                   |
 | Développement web               | HTML, CSS, JavaScript (Bootstrap)                                      |
-| Statistiques                    | statistiques descriptives et inférentielles, régression linéaire , 
-classification, analyse de séries temporelles, analyse multivariée, échantillonnage et tests d’hypothèses﻿   |
+| Statistiques                    | statistiques descriptives et inférentielles, régression linéaire , classification, analyse de séries temporelles, analyse multivariée, échantillonnage et tests d’hypothèses﻿                                                                      |
 
 
 
