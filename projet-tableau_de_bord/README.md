@@ -17,7 +17,14 @@ Avant la création du tableau de bord, les données brutes ont été nettoyées 
 Le tableau de bord final est interactif et conçu pour répondre à un cahier des charges précis défini par la direction :  
 - Visualisation claire de plusieurs indicateurs (répartition des étudiants, filières, réussite, etc.).  
 - Possibilité de filtrer par différentes dimensions (promotion, formation, groupe, département, etc.).  
-- Mise en forme lisible et professionnelle pour une utilisation opérationnelle par la direction.  
+- Mise en forme lisible et professionnelle pour une utilisation opérationnelle par la direction.
+
+## 🔍 Apprentissages critiques acquis (Programme national) :
+
+- AC12.01 : Réaliser que les sources de données ont des caractéristiques propres à considérer (variation, précision, mise à jour...).
+- AC12.02 : Comprendre qu’une analyse correcte ne peut émaner que de données propres et préparées.
+- AC12.03 : Comprendre l’intérêt des synthèses numériques et graphiques pour décrire une variable statistique.
+- AC12.04 : Comprendre l’intérêt des synthèses numériques et graphiques pour mettre en évidence des liaisons entre variables.
 
 ## ⚖️ Droits d’auteur et confidentialité
 
