@@ -2,6 +2,10 @@
 
 ## 📝 Description du projet
 
+
+https://github.com/user-attachments/assets/8a233f2a-f7f2-437c-9d8c-c10b8b2a41f1
+
+
 Ce projet consiste en la création d’un tableau de bord interactif à partir d’une base de données sur les étudiants de l’IUT de Villetaneuse.  
 L’objectif était de fournir à la direction un outil visuel et synthétique pour mieux comprendre le profil des étudiants, leur parcours et différents indicateurs de suivi.  
 
