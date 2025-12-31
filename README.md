@@ -1,7 +1,7 @@
 # 🎓 Data Science Portfolio
 
 Bienvenue sur mon portfolio GitHub.  
-Vous trouverez ici une sélection de mes projets en data science, statistiques et data visualisation.
+Vous trouverez ici une sélection de mes projets en Data science, Statistiques et Datavisualisation.
 
 ## 👨‍💻 À propos de moi
 Localisation: Paris, France
