@@ -165,3 +165,8 @@ Pour continuer à progresser, je souhaite :
 Ce projet valide notre capacité à concevoir, implémenter et exploiter une base de données relationnelle complète dans un contexte professionnel.
 
 De la modélisation des données jusqu'à la création d'indicateurs décisionnels, nous avons mis en œuvre les principales étapes d'un projet de gestion et d'analyse de données.
+
+## ⚖️ Droits d’auteur et confidentialité
+
+© Enzo Selvaratnam – Tous droits réservés.  
+  Elles ne peuvent pas être diffusées ou réutilisées en dehors du cadre pédagogique initial. Le dépôt ne contient que des éléments dérivés (structure du fichier, explications, exemples anonymisés) et pas les données sensibles d’origine. 
