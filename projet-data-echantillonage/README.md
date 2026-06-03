@@ -50,7 +50,7 @@ Cette démarche nous a permis de construire une problématique cohérente et de 
 * Excel
 * R
 * Python
-* Statistiques descriptives
+* Statistiques descriptives, inférentielles
 * Méthodes d'échantillonnage
 * Post-stratification
 
