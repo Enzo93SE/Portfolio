@@ -1,14 +1,19 @@
 # 📊 Analyse des inégalités économiques et de leurs impacts sur les parcours scolaires et professionnels en France
 
-## 📖 Présentation du projet
+## Présentation du projet
 
-**Équipe :** 5 étudiants
-**Compétences mobilisées :** Analyse de données, Datavisualisation, Gestion de projet
+Équipe : 5 étudiants
+Durée : 1 journée (8h – 17h)
+Note obtenue : 16/20
 
-Challenge National Dataviz BUT Science des Données en collaboration avec l'INSEE
+Le concours Dataviz est un événement national réunissant l'ensemble des étudiants de première année de BUT Science des Données en France.
+
+Pour l'édition 2024-2025, le concours était organisé en partenariat avec l'INSEE. Les participants disposaient d'une seule journée pour analyser un jeu de données, construire une problématique, produire des visualisations pertinentes et concevoir une infographie répondant à cette problématique.
+
 Ce projet avait pour objectif d'explorer les liens entre les inégalités économiques territoriales et les parcours scolaires et professionnels des habitants en France entre 2010 et 2021.
+Nous avons travaillé à partir de données publiques afin de produire des analyses visuelles et des indicateurs permettant de mieux comprendre les disparités observées entre les départements français.
 
-Nous avons travaillé à partir de données publiques de L'INSEE afin de produire des analyses visuelles et des indicateurs permettant de mieux comprendre les disparités observées entre les départements français.
+Chaque groupe devait ensuite présenter son travail lors d'une soutenance afin de sélectionner le projet qui représenterait l'IUT au niveau national.
 
 ---
 
