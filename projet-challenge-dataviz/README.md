@@ -1,4 +1,5 @@
 # 📊 Analyse des inégalités économiques et de leurs impacts sur les parcours scolaires et professionnels en France
+![affiche-concours-dataviz](/projet-challenge-dataviz/BUT-SD-Challenge-DataViz-Affiche.pdf)
 
 ## Présentation du projet
 
@@ -22,7 +23,7 @@ Chaque groupe devait ensuite présenter son travail lors d'une soutenance afin d
 > **Comment les inégalités économiques entre les départements français ont-elles influencé les parcours scolaires et professionnels des habitants entre 2010 et 2021 ?**
 
 L'objectif était d'identifier d'éventuelles relations entre le niveau de précarité économique d'un territoire et les indicateurs liés à l'éducation ou à l'insertion professionnelle.
-
+![img-finale](SAE DATAVIZ.jpg)
 ---
 
 ## Mon rôle dans le projet
