@@ -1,5 +1,5 @@
 # 📊 Analyse des inégalités économiques et de leurs impacts sur les parcours scolaires et professionnels en France
-![affiche-concours-dataviz](img_prog_dataviz.jpg)
+<img src="img_prog_dataviz.jpg" alt="Programme_dataviz" width="50%">
 
 ## Présentation du projet
 
