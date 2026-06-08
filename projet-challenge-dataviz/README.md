@@ -87,11 +87,6 @@ Plusieurs visualisations interactives ont été développées avec Tableau.
 
 Une carte choroplèthe a été réalisée afin de représenter la proportion de ménages vivant sous le seuil de pauvreté dans chaque département français.
 
-> Ajouter ici une capture d'écran de la carte Tableau.
-
-```text
-/images/carte-pauvrete-france.png
-```
 
 ### Indicateurs clés
 
