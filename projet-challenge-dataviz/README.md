@@ -23,9 +23,9 @@ Chaque groupe devait ensuite présenter son travail lors d'une soutenance afin d
 > **Comment les inégalités économiques entre les départements français ont-elles influencé les parcours scolaires et professionnels des habitants entre 2010 et 2021 ?**
 
 L'objectif était d'identifier d'éventuelles relations entre le niveau de précarité économique d'un territoire et les indicateurs liés à l'éducation ou à l'insertion professionnelle.
-![img-finale](SAE DATAVIZ.jpg)
----
 
+---
+![img-finale](SAE DATAVIZ.jpg)
 ## Mon rôle dans le projet
 
 J'ai assuré un rôle de coordinateur/manager au sein de l'équipe de cinq personnes.
