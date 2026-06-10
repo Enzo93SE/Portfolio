@@ -4,7 +4,7 @@
 
 **Équipe :** 2 étudiants  
 **Cadre :** SAE S4 Datamining BUT Science des Données
-**Note** : 19,5/20
+**Note : ** 19,5/20
 
 Ce projet mobilise nos compétences en **Science des Données** : nettoyage, analyse exploratoire, modélisation mathématique et classification.
 
