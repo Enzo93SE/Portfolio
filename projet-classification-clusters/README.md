@@ -10,7 +10,8 @@
 Ce projet mobilise nos compétences en **Science des Données** : nettoyage, analyse exploratoire, modélisation mathématique et classification.
 
 Nous avons travaillé sur un jeu de données (récupéré sur Kaggle) regroupant les comportements financiers de **8 950 détenteurs de cartes de crédit** sur une période de 6 mois.  
-`lien : https://www.kaggle.com/datasets/arjunbhasin2013/ccdata`
+**`lien : https://www.kaggle.com/datasets/arjunbhasin2013/ccdata`**
+
 L’institution bancaire est anonymisée, mais les données décrivent les habitudes de dépenses, la gestion du solde et les comportements de remboursement des clients.
 
 L’objectif est de transformer ces données brutes en **profils de comportements** afin de mieux comprendre et classifier les clients.
