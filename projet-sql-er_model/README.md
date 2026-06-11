@@ -117,7 +117,7 @@ ORDER BY total_exports_usd DESC
 LIMIT 10; 
 ```
 Résultat sur Metabase
-<img src='balance commerciale' alt='bc' width='60%'>
+<img src='balance commerciale.png' alt='bc' width='60%'>
 <
 
 ---
