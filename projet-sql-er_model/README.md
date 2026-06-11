@@ -46,9 +46,9 @@ Ce modèle a ensuite été traduit en un schéma relationnel normalisé jusqu'à
 
 ### Modèle Entité-Association
 
-> Ajouter ici une capture d'écran du MEA.
 
-<imf src="Modèle MEA.png" alt="MEA" width="50%">
+
+<img src="Modèle MEA.png" alt="MEA" width="50%">
 
 ---
 
