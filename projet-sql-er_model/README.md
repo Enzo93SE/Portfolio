@@ -48,9 +48,7 @@ Ce modèle a ensuite été traduit en un schéma relationnel normalisé jusqu'à
 
 > Ajouter ici une capture d'écran du MEA.
 
-```text
-/images/mea.png
-```
+<imf src="Modèle MEA.png" alt="MEA" width="50%">
 
 ---
 
