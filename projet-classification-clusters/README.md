@@ -83,6 +83,7 @@ Les clients endettés génèrent des revenus via les intérêts.
 ---
 
 ## Segmentation (K-Means)
+<img src="image_clusters.png" width="50%">
 
 ### 🟡 Acheteurs actifs
 - Forte consommation
