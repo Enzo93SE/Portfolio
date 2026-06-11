@@ -70,22 +70,14 @@ Nous avons également réalisé des opérations de :
 ### Exemple de création de table
 
 ```sql
-SELECT   
-c1.name AS exporter_country,  
-c2.name AS partner_country,  
-SUM(tb.valeur) AS total_exports_usd  
-FROM tradebalance_bilateral tb  
-JOIN Country c1 ON  
-tb.idCountry1 = c1.idCountry  -- Exportateur  
-JOIN Country c2 ON  
-tb.idCountry2 = c2.idCountry  -- importateur  
-JOIN Annee a ON tb.idAnnee = a.idAnnee  
-WHERE a.annee = 2009  
-AND tb.idIndicator = 5  -- Exports of low carbon technology products  
-AND tb.idUnit = (SELECT idUnit FROM Unit WHERE name = 'US Dollars')  
-GROUP BY c1.name, c2.name  
-ORDER BY total_exports_usd DESC  
-LIMIT 10; 
+CREATE TABLE CTS (  
+cts_code VARCHAR(10) PRIMARY KEY,  
+cts_name VARCHAR(100) NOT NULL,  
+cts_full_name VARCHAR(255),  
+id_tradeflow INT,  
+FOREIGN KEY (id_tradeflow)  
+REFERENCES Tradeflow(idTradeflow));
+
 ```
 
 ---
@@ -105,11 +97,28 @@ Les analyses réalisées ont notamment porté sur :
 
 Une carte interactive a été créée afin de représenter la balance commerciale mondiale.
 
-> Ajouter ici une capture d'écran du dashboard Metabase.
+```sql
 
-```text
-/images/balance-commerciale.png
+SELECT   
+c1.name AS exporter_country,  
+c2.name AS partner_country,  
+SUM(tb.valeur) AS total_exports_usd  
+FROM tradebalance_bilateral tb  
+JOIN Country c1 ON  
+tb.idCountry1 = c1.idCountry  -- Exportateur  
+JOIN Country c2 ON  
+tb.idCountry2 = c2.idCountry  -- importateur  
+JOIN Annee a ON tb.idAnnee = a.idAnnee  
+WHERE a.annee = 2009  
+AND tb.idIndicator = 5  -- Exports of low carbon technology products  
+AND tb.idUnit = (SELECT idUnit FROM Unit WHERE name = 'US Dollars')  
+GROUP BY c1.name, c2.name  
+ORDER BY total_exports_usd DESC  
+LIMIT 10; 
 ```
+Résultat sur Metabase
+<img src='balance commerciale' alt='bc' width='60%'>
+<
 
 ---
 
