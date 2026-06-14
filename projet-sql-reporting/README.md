@@ -76,6 +76,7 @@ Grâce à Metabase, plusieurs visualisations ont été construites :
 ### Exemple de visualisation
 
 **Nombre de catrastrophes par Années**
+<br>
 <img src='catastrophes.png' alt='image' width=50%>
 
 ---
