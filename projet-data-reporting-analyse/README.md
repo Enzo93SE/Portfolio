@@ -34,7 +34,9 @@ Cette étape était essentielle afin de garantir :
 
 ### Base de données utilisée
 
-> Ajouter ici une capture d'écran ou une présentation de la source de données.
+Lien vers la base de données
+<br>
+``https://ourworldindata.org/grapher/co2-per-unit-energy``
 
 ```text
 /images/base-donnees-co2.png
