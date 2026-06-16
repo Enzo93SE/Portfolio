@@ -13,21 +13,24 @@ You can find my different projects, my resume, and more information about me in 
 ## 📂 Projets
 
 - `projet-tableau_de_bord` – Dashboard Excel / Power Query sur des données d’étudiants, avec indicateurs et graphiques.  
-- `projet-reporting_analyse` – Analyse exploratoire de données (EDA) avec Python (pandas, visualisations, interprétations).  
-- `projet-dataviz` – Projet de data visualisation avec L'Insee (Power BI / Tableau ou équivalent).  
-- `projet-sql` – Projet de création base de données SQL.
-- `projet-enquête_sondage`-Projet d'enqûête statistique( recueil de données -> valorisations )
+- `projet-classification-clusters` – Analyse exploratoire de données (EDA) avec Python (pandas, visualisations, interprétations).  
+- `projet-challenge-dataviz` – Projet de data visualisation avec L'Insee (Power BI / Tableau ou équivalent).  
+- `projet-sq-er_model` – Projet de création base de données SQL avec modélisation de base puis une analyse avec Metabase
+- `projet-enquête_alimentation`-Projet d'enquête statistique sur l'alimentation des étudiants ( recueil de données -> valorisations )
+- `projet-estimation-echantillon`-Projet d'enqûête statistique( recueil de données -> valorisations )
+- `projet-data-echantillonage`-Projet d'enqûête statistique ( recueil de données -> valorisations )
 
 
-## 🧰 Compétences & outils
+
+## Compétences & outils
 
 | Catégorie                       | Détails                                                                 |
 |---------------------------------|-------------------------------------------------------------------------|
-| Langages                        | Python, SQL, R (RStudio)                                               |
+| Langages                        | Python, SQL, R (RStudio), VBA, M                                       |
 | Data                            | pandas, numpy, R, visualisation (matplotlib, RShiny)                   |
-| Outils                          | Excel / Power Query, Power BI, Tableau, Git & GitHub                   |
+| Outils                          | Excel / Power Query, Power BI, Tableau, Git & GitHub, Metabase,        |
 | Développement web               | HTML, CSS, JavaScript (Bootstrap)                                      |
-| Statistiques                    | statistiques descriptives et inférentielles, régression linéaire , classification, analyse de séries temporelles, analyse multivariée, échantillonnage et tests d’hypothèses﻿                                                                      |
+| Statistiques                    | statistiques descriptives et inférentielles, régression linéaire , classification, analyse de séries temporelles, analyse multivariée, échantillonnage et tests d’hypothèses﻿                                                         |
 
 
 
