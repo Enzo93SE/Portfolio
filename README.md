@@ -3,12 +3,7 @@
 Bienvenue sur mon portfolio GitHub.  
 Vous trouverez ici une sélection de mes projets en Data science, Statistiques et Datavisualisation.
 
-## 👨‍💻 À propos de moi
-Localisation: Paris, France
 
-I am currently pursuing a Bachelor’s degree in Data Science (B.U.T. Science des Données) at Sorbonne Paris North University.  
-My academic background combines applied mathematics, statistics, and computer science.  
-You can find my different projects, my resume, and more information about me in this repository and on my GitHub profile.
 
 ## 📂 Projets
 
