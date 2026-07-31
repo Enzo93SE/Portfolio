@@ -1,5 +1,5 @@
 ## Conception des tableaux de bord Power BI
-https://github.com/user-attachments/assets/8a233f2a-f7f2-437c-9d8c-c10b8b2a41f1
+https://github.com/user-attachments/assets/10e16eaf-e114-451a-8019-bf8b0d305a44
 
 
 La première étape du projet a consisté à étudier les différents jeux de données fournis afin de construire un modèle de données cohérent et exploitable dans Power BI.
